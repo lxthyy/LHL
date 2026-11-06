@@ -1,9 +1,0 @@
-CC BY 4.0 — Creative Commons Attribution 4.0 International
-
-Applies to the derived datasets in data/, the result tables in results/ and the
-documentation in docs/.
-
-You are free to share and adapt the material for any purpose, provided you give
-appropriate credit, link to the licence, and indicate whether changes were made.
-
-Full text: https://creativecommons.org/licenses/by/4.0/legalcode
