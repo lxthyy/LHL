@@ -1,0 +1,356 @@
+﻿python : c:\Users\lxddz\Desktop\科研稿件总库\A_在投_9篇\21_衰老指数等价性_LHL\LHL_投稿包_v1.00\代码\_审校\r4_reproduce_hr.py:4: SyntaxWarning:
+ invalid escape sequence '\w'
+所在位置 行:15 字符: 1777
++ ... 投稿包_v1.00"; python "$p\代码\_审校\r4_reproduce_hr.py" *> "$p\代码\_审校\r4_ou ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (c:\Users\lxddz\...e sequence '\w':String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  与 结果表\weighted_hr.csv、cause_specific.csv 逐格比对
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+C:\Users\lxddz\AppData\Local\Programs\Python\Python313\Lib\site-packages\lifelines\fitters\coxph_fitter.py:1356: Statis
+ticalWarning: It appears your weights are not integers, possibly propensity or sampling scores then?
+It's important to know that the naive variance estimates of the coefficients are biased. Instead a) set `robust=True` i
+n the call to `fit`, or b) use Monte Carlo to
+estimate the variances. See paper "Variance estimation when using inverse probability of treatment weighting (IPTW) wit
+h survival analysis"
+
+  warnings.warn(
+n=34393 deaths=5636
+
+=== 加权 HR：重跑 vs 冻结 ===
+PhenoAge   new 1.5622 (1.3640-1.7891)  frozen 1.5622 (1.3640-1.7891)  OK
+HD         new 1.5482 (1.3588-1.7640)  frozen 1.5482 (1.3588-1.7640)  OK
+AL         new 1.3052 (1.0805-1.5766)  frozen 1.3052 (1.0805-1.5766)  OK
+Dispersion new 1.3452 (1.1472-1.5775)  frozen 1.3452 (1.1472-1.5775)  OK
+PC1        new 1.2098 (1.0763-1.3600)  frozen 1.2098 (1.0763-1.3600)  OK
+
+=== 死因别 HR：重跑 vs 冻结 ===
+心血管  PhenoAge   new 1.5902 (1.3721-1.8429) frozen 1.5902 (1.3721-1.8429) OK
+心血管  HD         new 1.5841 (1.3494-1.8596) frozen 1.5841 (1.3494-1.8596) OK
+心血管  AL         new 1.3712 (1.1312-1.6622) frozen 1.3712 (1.1312-1.6622) OK
+心血管  Dispersion new 1.3315 (1.1138-1.5918) frozen 1.3315 (1.1138-1.5918) OK
+心血管  PC1        new 1.1767 (1.0072-1.3747) frozen 1.1767 (1.0072-1.3747) OK
+肿瘤   PhenoAge   new 1.3732 (1.1676-1.6151) frozen 1.3732 (1.1676-1.6151) OK
+肿瘤   HD         new 1.3761 (1.1819-1.6023) frozen 1.3761 (1.1819-1.6023) OK
+肿瘤   AL         new 1.1441 (0.9136-1.4327) frozen 1.1441 (0.9136-1.4327) OK
+肿瘤   Dispersion new 1.2826 (1.0937-1.5040) frozen 1.2826 (1.0937-1.5040) OK
+肿瘤   PC1        new 1.1480 (0.9644-1.3666) frozen 1.1480 (0.9644-1.3666) OK
+呼吸   PhenoAge   new 1.6756 (1.4045-1.9990) frozen 1.6756 (1.4045-1.9990) OK
+呼吸   HD         new 1.5966 (1.2979-1.9640) frozen 1.5966 (1.2979-1.9640) OK
+呼吸   AL         new 1.2829 (1.0022-1.6420) frozen 1.2829 (1.0022-1.6420) OK
+呼吸   Dispersion new 1.2998 (1.0542-1.6026) frozen 1.2998 (1.0542-1.6026) OK
+呼吸   PC1        new 1.3550 (1.1229-1.6352) frozen 1.3550 (1.1229-1.6352) OK
+
+死因别不一致: 0

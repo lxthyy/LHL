@@ -1,0 +1,7 @@
+﻿margin,n_eq,pairs
+0.0025,2,PhenoAge − HD; AL − PC1
+0.005,2,PhenoAge − HD; AL − PC1
+0.01,7,PhenoAge − HD; PhenoAge − Dispersion; HD − AL; HD − Dispersion; AL − Dispersion; AL − PC1; Dispersion − PC1
+0.015,10,PhenoAge − HD; PhenoAge − AL; PhenoAge − Dispersion; PhenoAge − PC1; HD − AL; HD − Dispersion; HD − PC1; AL − Dispersion; AL − PC1; Dispersion − PC1
+0.02,10,PhenoAge − HD; PhenoAge − AL; PhenoAge − Dispersion; PhenoAge − PC1; HD − AL; HD − Dispersion; HD − PC1; AL − Dispersion; AL − PC1; Dispersion − PC1
+0.03,10,PhenoAge − HD; PhenoAge − AL; PhenoAge − Dispersion; PhenoAge − PC1; HD − AL; HD − Dispersion; HD − PC1; AL − Dispersion; AL − PC1; Dispersion − PC1

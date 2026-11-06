@@ -1,0 +1,13 @@
+
+===== make_fig4.py  10 次  开始 00:11:59 =====
+第 1次     3.2s  rc=0  FF2ED243C1577C8D
+第 2次     3.1s  rc=0  FF2ED243C1577C8D
+第 3次     3.1s  rc=0  FF2ED243C1577C8D
+第 4次     3.2s  rc=0  FF2ED243C1577C8D
+第 5次     3.1s  rc=0  FF2ED243C1577C8D
+第 6次     3.1s  rc=0  FF2ED243C1577C8D
+第 7次     3.1s  rc=0  FF2ED243C1577C8D
+第 8次     3.1s  rc=0  FF2ED243C1577C8D
+第 9次     3.1s  rc=0  FF2ED243C1577C8D
+第10次     3.1s  rc=0  FF2ED243C1577C8D
+结果：一致（10 次，唯一哈希组合 1 种）

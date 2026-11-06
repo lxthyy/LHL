@@ -1,0 +1,7 @@
+﻿margin,n_eq_pointwise,n_eq_simultaneous,pairs_pointwise
+0.0025,2,1,PhenoAge − HD; AL − PC1
+0.005,2,2,PhenoAge − HD; AL − PC1
+0.01,6,6,PhenoAge − HD; PhenoAge − Dispersion; HD − Dispersion; AL − Dispersion; AL − PC1; Dispersion − PC1
+0.015,10,10,PhenoAge − HD; PhenoAge − AL; PhenoAge − Dispersion; PhenoAge − PC1; HD − AL; HD − Dispersion; HD − PC1; AL − Dispersion; AL − PC1; Dispersion − PC1
+0.02,10,10,PhenoAge − HD; PhenoAge − AL; PhenoAge − Dispersion; PhenoAge − PC1; HD − AL; HD − Dispersion; HD − PC1; AL − Dispersion; AL − PC1; Dispersion − PC1
+0.03,10,10,PhenoAge − HD; PhenoAge − AL; PhenoAge − Dispersion; PhenoAge − PC1; HD − AL; HD − Dispersion; HD − PC1; AL − Dispersion; AL − PC1; Dispersion − PC1

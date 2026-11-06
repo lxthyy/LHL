@@ -1,0 +1,9 @@
+﻿dropped,order,same_as_full,PhenoAge,HD,AL,Dispersion,PC1
+1999-00,PhenoAge > HD > Dispersion > AL > PC1,True,0.8761,0.8757,0.8658,0.8699,0.8644
+2001-02,PhenoAge > HD > Dispersion > AL > PC1,True,0.8774,0.8769,0.8676,0.8718,0.8661
+2003-04,PhenoAge > HD > Dispersion > AL > PC1,True,0.874,0.8734,0.8645,0.8692,0.8636
+2005-06,PhenoAge > HD > Dispersion > AL > PC1,True,0.8728,0.8721,0.8628,0.867,0.8617
+2007-08,PhenoAge > HD > Dispersion > AL > PC1,True,0.8757,0.8748,0.8663,0.8706,0.8653
+2009-10,PhenoAge > HD > Dispersion > AL > PC1,True,0.8768,0.8762,0.8677,0.8717,0.8663
+2015-16,PhenoAge > HD > Dispersion > AL > PC1,True,0.8752,0.8747,0.8661,0.8704,0.8652
+2017-18,PhenoAge > HD > Dispersion > AL > PC1,True,0.876,0.8755,0.8668,0.8711,0.866

@@ -1,0 +1,4 @@
+
+===== r4_reproduce_hr.py  10 次  开始 00:12:36 =====
+第 1次  1564.3s  rc=0  0A69FEBC5679F4D0 | 6CFE6BD1FAFA353C
+第 2次  1549.4s  rc=0  0A69FEBC5679F4D0 | 6CFE6BD1FAFA353C
